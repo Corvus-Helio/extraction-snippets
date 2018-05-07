@@ -1,0 +1,1 @@
+Some R scripts that loop over GIS rasters/files and extract data at specific lat-longs/counties, or make vertical tables from pdfs. This is super *ad hoc* (with local paths and all that) so you might not find useful.
